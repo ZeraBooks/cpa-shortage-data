@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "CPA shortage data"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/cpa-shortage-data"
+repository-code: "https://github.com/ZeraBooks/cpa-shortage-data"
+license: CC-BY-4.0
+abstract: "U.S. schools awarded 55,152 accounting bachelor's and master's degrees in 2023-24, down 6.6%, while BLS projects about 115,300 accountant and auditor openings a year through 2035. NASBA counted 650,667 actively licensed CPAs in August 2026. This repository has those figures and the rest of the pipeline data in one CSV, each linked to its AICPA, NASBA or BLS source."
+keywords:
+  - cpa
+  - accounting
+  - cpa-exam
+  - statistics
+  - workforce
+  - open-data
+  - aicpa
+date-released: 2026-11-04
