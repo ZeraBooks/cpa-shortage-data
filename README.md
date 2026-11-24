@@ -73,4 +73,4 @@ The content and data in this repository are licensed under
 [CC BY 4.0](LICENSE). Free to use and adapt with credit to ZeraBooks.
 The underlying figures belong to the AICPA, NASBA and BLS.
 
-Maintained by [ZeraBooks](https://www.zerabooks.com).
+Maintained by ZeraBooks.
